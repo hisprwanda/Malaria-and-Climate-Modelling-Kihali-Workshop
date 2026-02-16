@@ -1,7 +1,7 @@
 # 🌍 Climate & Health Spatial–Temporal Modelling in Rwanda
 
 **Lead:** Dr. Similien Ndagijimana  
-**Affiliation:**  HISP Rwanda|Ministry of Health Rwanda 
+**Affiliation:**  HISP Rwanda|Ministry of Health Rwanda |
 **Project:** Rwanda – Climate & Health Initiative (Malaria Use case)
 
 ---
