@@ -16,7 +16,7 @@ The project integrates:
 - Climate and environmental data (rainfall, temperature, NDVI, PM2.5)
 - Sector-level spatial data (416 sectors)
 - Bayesian hierarchical modelling (INLA framework)
-
+---
 ### Objectives
 
 - Estimate sector-level Relative Risk (RR)
@@ -25,7 +25,7 @@ The project integrates:
 - Generate short-term forecasts
 - Support early warning systems
 - Integrate outputs into DHIS2 dashboards
-
+---
 ## Modelling Framework
 
 We use a Bayesian hierarchical spatio-temporal model:
@@ -71,7 +71,7 @@ Where:
 We use the **BYM2 parameterization** with:
 
 - Scaled spatial model
-- Penalized Complexity (PC) priors
+- Penalised Complexity (PC) priors
 - Adjacency matrix (`Adj_Map.graph`)
 - Shapefile: `rwa_adm3_2006_NISR_WGS1984_20181002.shp`
 
@@ -128,5 +128,5 @@ Outputs include:
 
 ---
 
-## Repository Structure
+
 
